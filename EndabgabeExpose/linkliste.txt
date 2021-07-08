@@ -1,0 +1,14 @@
+https://www.windowscentral.com/ultimate-grand-theft-auto-v-graphics-mods-data-now-github
+
+https://www.theverge.com/2019/3/6/18222203/video-game-ai-future-procedural-generation-deep-learning
+
+
+Combining character animation and physic influence with AI:
+
+https://static-wordpress.akamaized.net/montreal.ubisoft.com/wp-content/uploads/2019/11/13214229/DReCon.pdf
+https://montreal.ubisoft.com/en/drecon-data-driven-responsive-control-of-physics-based-characters/
+
+
+Phase-functioned neural networks for character control
+http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf
+https://scikit-learn.org/stable/modules/neural_networks_supervised.html
